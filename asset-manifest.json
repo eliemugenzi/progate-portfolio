@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/progate-portfolio/static/css/main.2cce8147.chunk.css",
-    "main.js": "/progate-portfolio/static/js/main.ec609d0c.chunk.js",
-    "main.js.map": "/progate-portfolio/static/js/main.ec609d0c.chunk.js.map",
+    "main.css": "/progate-portfolio/static/css/main.81056636.chunk.css",
+    "main.js": "/progate-portfolio/static/js/main.3eda53c5.chunk.js",
+    "main.js.map": "/progate-portfolio/static/js/main.3eda53c5.chunk.js.map",
     "runtime~main.js": "/progate-portfolio/static/js/runtime~main.a1a73be7.js",
     "runtime~main.js.map": "/progate-portfolio/static/js/runtime~main.a1a73be7.js.map",
-    "static/js/2.b41502e9.chunk.js": "/progate-portfolio/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/progate-portfolio/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.b4b23ec4.chunk.css": "/progate-portfolio/static/css/2.b4b23ec4.chunk.css",
+    "static/js/2.fa9683e8.chunk.js": "/progate-portfolio/static/js/2.fa9683e8.chunk.js",
+    "static/js/2.fa9683e8.chunk.js.map": "/progate-portfolio/static/js/2.fa9683e8.chunk.js.map",
     "index.html": "/progate-portfolio/index.html",
-    "precache-manifest.064f0b5670c4f71c5d36963f302b5ff8.js": "/progate-portfolio/precache-manifest.064f0b5670c4f71c5d36963f302b5ff8.js",
+    "precache-manifest.6d651f1b3e3b8e0c02f2890c834c9e81.js": "/progate-portfolio/precache-manifest.6d651f1b3e3b8e0c02f2890c834c9e81.js",
     "service-worker.js": "/progate-portfolio/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/progate-portfolio/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/progate-portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/2.b4b23ec4.chunk.css.map": "/progate-portfolio/static/css/2.b4b23ec4.chunk.css.map",
+    "static/css/main.81056636.chunk.css.map": "/progate-portfolio/static/css/main.81056636.chunk.css.map",
+    "static/media/all.css": "/progate-portfolio/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
