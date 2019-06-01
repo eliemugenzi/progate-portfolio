@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ba86d79eac09c75e455a3f31da640b3",
+    "revision": "92b5335a13f6bb9aed2b5c515bee840c",
     "url": "/progate-portfolio/index.html"
   },
   {
-    "revision": "0eae99bf866d1f9570c8",
-    "url": "/progate-portfolio/static/css/2.b4b23ec4.chunk.css"
+    "revision": "30a3d88ab2eafa75309e",
+    "url": "/progate-portfolio/static/css/2.3412e557.chunk.css"
   },
   {
-    "revision": "597f4221af00c68b31e5",
-    "url": "/progate-portfolio/static/css/main.81056636.chunk.css"
+    "revision": "8aa6540d2f0e87c11fda",
+    "url": "/progate-portfolio/static/css/main.32d0ebf9.chunk.css"
   },
   {
-    "revision": "0eae99bf866d1f9570c8",
+    "revision": "30a3d88ab2eafa75309e",
     "url": "/progate-portfolio/static/js/2.fa9683e8.chunk.js"
   },
   {
-    "revision": "597f4221af00c68b31e5",
-    "url": "/progate-portfolio/static/js/main.3eda53c5.chunk.js"
+    "revision": "8aa6540d2f0e87c11fda",
+    "url": "/progate-portfolio/static/js/main.0fd9a87a.chunk.js"
   },
   {
     "revision": "7228881d21e17677c62c",
