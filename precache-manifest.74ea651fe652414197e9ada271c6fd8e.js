@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92b5335a13f6bb9aed2b5c515bee840c",
+    "revision": "8c7ce4f34d898439a15751cd08c235f5",
     "url": "/progate-portfolio/index.html"
   },
   {
-    "revision": "30a3d88ab2eafa75309e",
+    "revision": "6ceb78aa71b77246e46e",
     "url": "/progate-portfolio/static/css/2.3412e557.chunk.css"
   },
   {
-    "revision": "8aa6540d2f0e87c11fda",
+    "revision": "fe1260be62f1db273fe5",
     "url": "/progate-portfolio/static/css/main.32d0ebf9.chunk.css"
   },
   {
-    "revision": "30a3d88ab2eafa75309e",
-    "url": "/progate-portfolio/static/js/2.fa9683e8.chunk.js"
+    "revision": "6ceb78aa71b77246e46e",
+    "url": "/progate-portfolio/static/js/2.9735537c.chunk.js"
   },
   {
-    "revision": "8aa6540d2f0e87c11fda",
-    "url": "/progate-portfolio/static/js/main.0fd9a87a.chunk.js"
+    "revision": "fe1260be62f1db273fe5",
+    "url": "/progate-portfolio/static/js/main.ec5784c4.chunk.js"
   },
   {
     "revision": "7228881d21e17677c62c",
